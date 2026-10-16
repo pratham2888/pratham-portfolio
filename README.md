@@ -1,4 +1,4 @@
-# Pratham — Developer Landing
+# Pratham Portfolio
 
 A standalone 3D developer landing page, separate from the full portfolio. Black and amber art direction, interactive orbital graphics, and paths into work, code, and writing.
 
