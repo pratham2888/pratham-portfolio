@@ -18,3 +18,7 @@ Keyboard rotation, pause, reset, reduced-motion preferences, native expandable c
 
 ## Profile landing page
 The separate GitHub profile README lives at https://github.com/pratham2888/pratham2888 and links here.
+
+## Portfolio guide
+
+chat.js provides an interactive portfolio conversation: recruiter and developer tours, contextual follow-ups, evidence links, source labels, reset, and local-only conversation state. It is a curated guide, not a live LLM or LinkedIn feed. PROFILE-CONTENT.md contains the generated profile copy and its source limitations.
